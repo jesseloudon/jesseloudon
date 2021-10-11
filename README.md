@@ -6,4 +6,4 @@ Hi, I'm Jesse, a dataset wrangler and chief technology googler. I build enterpri
 Jesse can be reached via
 Twitter: [@coder_au](https://twitter.com/coder_au) or LinkedIn: [@JesseLoudon](https://www.linkedin.com/in/jesseloudon/)
 
-![JesseJson](https://jloudon.com/assets/images/JesseJson2021.JPG)
+[![Global Azure 2021: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/assets/images/JesseJson2021.JPG)](https://youtu.be/qpnMJXw6pIg)

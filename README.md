@@ -9,7 +9,8 @@ Reach me via
 Twitter: [@coder_au](https://twitter.com/coder_au) or LinkedIn: [@JesseLoudon](https://www.linkedin.com/in/jesseloudon/)
 
 ## 📺 Jesse YouTube
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qpnMJXw6pIg"><img width="140px" src="https://i.ytimg.com/vi/qpnMJXw6pIg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qpnMJXw6pIg">#GlobalAzure - Policy as Code with Bicep for Enterprise Scale</a><br/>Apr 17, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ## 📺 Jesse Speaking @ Meetups/Events

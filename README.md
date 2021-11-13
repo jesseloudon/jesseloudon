@@ -7,3 +7,11 @@ Hi, I'm Jesse, a dataset wrangler and chief technology googler. I build enterpri
 
 Reach me via
 Twitter: [@coder_au](https://twitter.com/coder_au) or LinkedIn: [@JesseLoudon](https://www.linkedin.com/in/jesseloudon/)
+
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+## 📚 Latest Blog Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

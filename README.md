@@ -28,4 +28,9 @@ Twitter: [@coder_au](https://twitter.com/coder_au) or LinkedIn: [@JesseLoudon](h
 - [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
 - [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
 - [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
+- [What The Heck Happened In 2020](https://jloudon.com/personal/What-The-Heck-Happened-In-2020/)
+- [Ansible on Azure Part 1](https://jloudon.com/cloud/Ansible-on-Azure-Part-1/)
+- [Ansible on Azure Part 2](https://jloudon.com/cloud/Ansible-on-Azure-Part-2/)
+- [Ansible on Azure Part 3](https://jloudon.com/cloud/Ansible-on-Azure-Part-3/)
+- [Automate Microsoft Teams desktop settings with PowerShell](https://jloudon.com/m365/Automate-Microsoft-Teams-desktop-settings-with-PowerShell/)
 <!-- BLOG-POST-LIST:END -->

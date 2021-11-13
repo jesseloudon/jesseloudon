@@ -23,4 +23,9 @@ Twitter: [@coder_au](https://twitter.com/coder_au) or LinkedIn: [@JesseLoudon](h
 
 ## 📚 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/How-To-Win-vs-Azure-Policy-Non-Compliance/)
+- [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
+- [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
+- [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
+- [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
 <!-- BLOG-POST-LIST:END -->

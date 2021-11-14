@@ -1,4 +1,4 @@
-[![Global Azure 2021: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/assets/images/JesseJson2021.png)](https://youtu.be/qpnMJXw6pIg)
+[![Global Azure 2021: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/assets/images/JesseJson2021.JPG)](https://youtu.be/qpnMJXw6pIg)
 
 Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 

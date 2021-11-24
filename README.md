@@ -33,11 +33,11 @@ Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/me
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Talking Azure Policy as Code on CtrlAltAzure podcast](https://jloudon.com/cloud/Talking-Azure-Policy-as-Code-on-the-CtrlAltAzure-podcast/)
 - [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/How-To-Win-vs-Azure-Policy-Non-Compliance/)
 - [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
 - [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
 - [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
-- [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [PaC Contributors](https://github.com/globalbao/azure-policy-as-code)

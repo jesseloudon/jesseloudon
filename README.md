@@ -46,7 +46,7 @@ Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/me
 </a>
 
 ### [PaC Stargazers](https://github.com/globalbao/azure-policy-as-code)
-[![Stargazers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/stars/globalbao/azure-policy-as-code)](https://github.com/globalbao/azure-policy-as-code/stargazers)
+[![Stargazers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/stars/globalbao/azure-policy-as-code#gh-light-mode-only)](https://github.com/globalbao/azure-policy-as-code/stargazers#gh-light-mode-only)[![Stargazers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/stars/dark/globalbao/azure-policy-as-code#gh-dark-mode-only)](https://github.com/globalbao/azure-policy-as-code/stargazers#gh-dark-mode-only)
 
 ### [PaC Forkers](https://github.com/globalbao/azure-policy-as-code)
-[![Forkers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/forks/globalbao/azure-policy-as-code)](https://github.com/globalbao/azure-policy-as-code/network/members)
+[![Forkers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/forks/globalbao/azure-policy-as-code#gh-light-mode-only)](https://github.com/globalbao/azure-policy-as-code/network/members#gh-light-mode-only)[![Forkers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/forks/dark/globalbao/azure-policy-as-code#gh-dark-mode-only)](https://github.com/globalbao/azure-policy-as-code/network/members#gh-dark-mode-only)

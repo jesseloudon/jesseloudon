@@ -38,6 +38,11 @@ Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/me
 - [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/How-To-Win-vs-Azure-Policy-Non-Compliance/)
 - [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
 - [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
+- [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
+- [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
+- [What The Heck Happened In 2020](https://jloudon.com/personal/What-The-Heck-Happened-In-2020/)
+- [Ansible on Azure Part 1](https://jloudon.com/cloud/Ansible-on-Azure-Part-1/)
+- [Ansible on Azure Part 2](https://jloudon.com/cloud/Ansible-on-Azure-Part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Stargazers](https://github.com/globalbao/awesome-azure-policy)

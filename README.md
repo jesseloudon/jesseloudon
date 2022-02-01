@@ -45,6 +45,11 @@ Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/me
 - [Ansible on Azure Part 2](https://jloudon.com/cloud/Ansible-on-Azure-Part-2/)
 <!-- BLOG-POST-LIST:END -->
 
+### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)
+<a href="https://github.com/globalbao/awesome-azure-policy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=globalbao/awesome-azure-policy" />
+</a>
+
 ### [Awesome-Azure-Policy Stargazers](https://github.com/globalbao/awesome-azure-policy)
 [![Stargazers repo roster for @globalbao/awesome-azure-policy](https://reporoster.com/stars/globalbao/awesome-azure-policy#gh-light-mode-only)](https://github.com/globalbao/awesome-azure-policy/stargazers#gh-light-mode-only)[![Stargazers repo roster for @globalbao/awesome-azure-policy](https://reporoster.com/stars/dark/globalbao/awesome-azure-policy#gh-dark-mode-only)](https://github.com/globalbao/awesome-azure-policy/stargazers#gh-dark-mode-only)
 

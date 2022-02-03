@@ -20,7 +20,7 @@ Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/me
 
 ### Latest Events, Meetups
 <!-- YOUTUBE-PLAYLIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI"><img width="140px" src="https://i.ytimg.com/vi/SuH_TBBsvLI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a><br/>Jan 9, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a><br/>Feb 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-KSLh2I9e1U"><img width="140px" src="https://i.ytimg.com/vi/-KSLh2I9e1U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-KSLh2I9e1U">Flexing Your Security Governance with Azure Policy As Code</a><br/>Nov 10, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B03V3Tazcec"><img width="140px" src="https://i.ytimg.com/vi/B03V3Tazcec/mqdefault.jpg"></a></td>

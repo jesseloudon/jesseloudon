@@ -1,6 +1,6 @@
 [![Global Azure 2021: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/assets/images/JesseJson2021.JPG)](https://youtu.be/qpnMJXw6pIg)
 
-Hi there <a href="https://www.jloudon.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Jesse, a dataset wrangler and chief technology googler. I build enterprises w/ a slice of iac + a dash of devops. 
+A dataset wrangler and chief technology googler. Building enterprises w/ a slice of IaC + a dash of DevOps. 
 
 ### **Mission Statement**
 > To Democratize Azure Policy as Code

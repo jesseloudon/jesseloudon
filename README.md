@@ -49,20 +49,3 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 <a href="https://github.com/globalbao/awesome-azure-policy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=globalbao/awesome-azure-policy" />
 </a>
-
-### [Awesome-Azure-Policy Stargazers](https://github.com/globalbao/awesome-azure-policy)
-[![Stargazers repo roster for @globalbao/awesome-azure-policy](https://reporoster.com/stars/globalbao/awesome-azure-policy#gh-light-mode-only)](https://github.com/globalbao/awesome-azure-policy/stargazers#gh-light-mode-only)[![Stargazers repo roster for @globalbao/awesome-azure-policy](https://reporoster.com/stars/dark/globalbao/awesome-azure-policy#gh-dark-mode-only)](https://github.com/globalbao/awesome-azure-policy/stargazers#gh-dark-mode-only)
-
-### [Awesome-Azure-Policy Forkers](https://github.com/globalbao/awesome-azure-policy)
-[![Forkers repo roster for @globalbao/awesome-azure-policy](https://reporoster.com/forks/globalbao/awesome-azure-policy#gh-light-mode-only)](https://github.com/globalbao/awesome-azure-policy/network/members#gh-light-mode-only)[![Forkers repo roster for @globalbao/awesome-azure-policy](https://reporoster.com/forks/dark/globalbao/awesome-azure-policy#gh-dark-mode-only)](https://github.com/globalbao/awesome-azure-policy/network/members#gh-dark-mode-only)
-
-### [Policy-As-Code Contributors](https://github.com/globalbao/azure-policy-as-code)
-<a href="https://github.com/globalbao/azure-policy-as-code/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=globalbao/azure-policy-as-code" />
-</a>
-
-### [Policy-As-Code Stargazers](https://github.com/globalbao/azure-policy-as-code)
-[![Stargazers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/stars/globalbao/azure-policy-as-code#gh-light-mode-only)](https://github.com/globalbao/azure-policy-as-code/stargazers#gh-light-mode-only)[![Stargazers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/stars/dark/globalbao/azure-policy-as-code#gh-dark-mode-only)](https://github.com/globalbao/azure-policy-as-code/stargazers#gh-dark-mode-only)
-
-### [Policy-As-Code Forkers](https://github.com/globalbao/azure-policy-as-code)
-[![Forkers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/forks/globalbao/azure-policy-as-code#gh-light-mode-only)](https://github.com/globalbao/azure-policy-as-code/network/members#gh-light-mode-only)[![Forkers repo roster for @globalbao/azure-policy-as-code](https://reporoster.com/forks/dark/globalbao/azure-policy-as-code#gh-dark-mode-only)](https://github.com/globalbao/azure-policy-as-code/network/members#gh-dark-mode-only)

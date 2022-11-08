@@ -14,6 +14,9 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 <a href="https://www.youtube.com/channel/UCZ79IZ2ofpJhLVAOgN0n9tw" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="jesseloudon" height="30" width="40" /></a>
  
 ### Latest YouTube videos
+<!-- BEGIN YOUTUBE-PLAYLIST -->
+<!-- END YOUTUBE-PLAYLIST -->
+ 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#GlobalAzure - Policy as Code with Bicep for Enterprise Scale](https://ytcards.demolab.com/?id=qpnMJXw6pIg&title=%23GlobalAzure+-+Policy+as+Code+with+Bicep+for+Enterprise+Scale&lang=en&timestamp=1618672431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#GlobalAzure - Policy as Code with Bicep for Enterprise Scale")](https://www.youtube.com/watch?v=qpnMJXw6pIg)
 <!-- END YOUTUBE-CARDS -->

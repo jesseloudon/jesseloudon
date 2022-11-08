@@ -18,30 +18,30 @@ jobs:
           max_post_count: "15"
           committer_email: "13147870+jesseloudon@users.noreply.github.com"
 
-  update-readme-with-youtube-playlist:
-    name: Update this repo's README with latest videos from YouTube playlist
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE-PLAYLIST"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLnjC5388UFvExuCM2YhR3-K67tQ2wv8H_"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-          committer_email: "13147870+jesseloudon@users.noreply.github.com"
+#   update-readme-with-youtube-playlist:
+#     name: Update this repo's README with latest videos from YouTube playlist
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           comment_tag_name: "YOUTUBE-PLAYLIST"
+#           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLnjC5388UFvExuCM2YhR3-K67tQ2wv8H_"
+#           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+#           date_format: "mmm d, yyyy"
+#           template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+#           committer_email: "13147870+jesseloudon@users.noreply.github.com"
 
-  update-readme-with-youtube:
-    name: Update this repo's README with latest videos from YouTube
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ79IZ2ofpJhLVAOgN0n9tw"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="180px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-          committer_email: "13147870+jesseloudon@users.noreply.github.com"
+#   update-readme-with-youtube:
+#     name: Update this repo's README with latest videos from YouTube
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           comment_tag_name: "YOUTUBE"
+#           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ79IZ2ofpJhLVAOgN0n9tw"
+#           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+#           date_format: "mmm d, yyyy"
+#           template: '<table><tr><td><a href="$url"><img width="180px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+#           committer_email: "13147870+jesseloudon@users.noreply.github.com"

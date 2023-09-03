@@ -33,7 +33,6 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/Flexing-your-Security-Governance-with-Azure-Policy-as-Code/)
-- [Safeguard Your Festive Holiday with Azure Governance](https://jloudon.com/cloud/Safeguard-Your-Festive-Holiday-with-Azure-Governance/)
 - [Talking Azure Policy as Code on CtrlAltAzure podcast](https://jloudon.com/cloud/Talking-Azure-Policy-as-Code-on-the-CtrlAltAzure-podcast/)
 - [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/How-To-Win-vs-Azure-Policy-Non-Compliance/)
 - [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
@@ -42,6 +41,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 - [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
 - [What The Heck Happened In 2020](https://jloudon.com/personal/What-The-Heck-Happened-In-2020/)
 - [Ansible on Azure Part 1](https://jloudon.com/cloud/Ansible-on-Azure-Part-1/)
+- [Ansible on Azure Part 2](https://jloudon.com/cloud/Ansible-on-Azure-Part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)

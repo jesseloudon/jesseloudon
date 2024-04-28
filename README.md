@@ -27,7 +27,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 <!-- YOUTUBE-PLAYLIST:END -->
  
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![#GlobalAzure - Policy as Code with Bicep for Enterprise Scale](https://ytcards.demolab.com/?id=qpnMJXw6pIg&title=%23GlobalAzure+-+Policy+as+Code+with+Bicep+for+Enterprise+Scale&lang=en&timestamp=1618672431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#GlobalAzure - Policy as Code with Bicep for Enterprise Scale")](https://www.youtube.com/watch?v=qpnMJXw6pIg)
 <!-- END YOUTUBE-CARDS -->
  
 ### Latest Articles

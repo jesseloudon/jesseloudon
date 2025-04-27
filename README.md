@@ -34,6 +34,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Managing Azure Databricks Workspace IP Access Lists via CICD](https://jloudon.com/cloud/Managing-Azure-Databricks-Workspace-IP-Access-Lists-via-CICD/)
 - [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/Flexing-your-Security-Governance-with-Azure-Policy-as-Code/)
 - [Awesome Azure Policy Origin Story](https://jloudon.com/cloud/Awesome-Azure-Policy-Origin-Story/)
 - [Talking Azure Policy as Code on CtrlAltAzure podcast](https://jloudon.com/cloud/Talking-Azure-Policy-as-Code-on-the-CtrlAltAzure-podcast/)
@@ -43,7 +44,6 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 - [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
 - [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
 - [What The Heck Happened In 2020](https://jloudon.com/personal/What-The-Heck-Happened-In-2020/)
-- [Ansible on Azure Part 1](https://jloudon.com/cloud/Ansible-on-Azure-Part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)

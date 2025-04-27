@@ -13,7 +13,12 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 <a href="https://jloudon.com/feed.xml" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/rss.svg" alt="jesseloudon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZ79IZ2ofpJhLVAOgN0n9tw" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="jesseloudon" height="30" width="40" /></a>
  
-### Latest YouTube videos
+### Latest YouTube
+<!-- BEGIN YOUTUBE-CARDS -->
+[![How to Effectively Govern Azure Tags using Azure Policy (Demo)](https://ytcards.demolab.com/?id=Z93e2yYKO1Q&title=How+to+Effectively+Govern+Azure+Tags+using+Azure+Policy+%28Demo%29&lang=en&timestamp=1745553023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Effectively Govern Azure Tags using Azure Policy (Demo)")](https://www.youtube.com/watch?v=Z93e2yYKO1Q)
+[![#GlobalAzure - Policy as Code with Bicep for Enterprise Scale](https://ytcards.demolab.com/?id=qpnMJXw6pIg&title=%23GlobalAzure+-+Policy+as+Code+with+Bicep+for+Enterprise+Scale&lang=en&timestamp=1618672431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#GlobalAzure - Policy as Code with Bicep for Enterprise Scale")](https://www.youtube.com/watch?v=qpnMJXw6pIg)
+<!-- END YOUTUBE-CARDS -->
+
 <!-- YOUTUBE-PLAYLIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_Fjs7kUGeLI"><img width="140px" src="https://i.ytimg.com/vi/_Fjs7kUGeLI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_Fjs7kUGeLI">Global Azure Sydney 2024 - Roadtesting GitHub Copilot on Azure Policies</a><br/>May 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI"><img width="140px" src="https://i.ytimg.com/vi/SuH_TBBsvLI/mqdefault.jpg"></a></td>
@@ -26,12 +31,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 <td><a href="https://www.youtube.com/watch?v=dPwy8nlNyNM">Sydney DevOps Meetup — August 2021</a><br/>Aug 20, 2021</td></tr></table>
 <!-- YOUTUBE-PLAYLIST:END -->
  
-<!-- BEGIN YOUTUBE-CARDS -->
-[![How to Effectively Govern Azure Tags using Azure Policy (Demo)](https://ytcards.demolab.com/?id=Z93e2yYKO1Q&title=How+to+Effectively+Govern+Azure+Tags+using+Azure+Policy+%28Demo%29&lang=en&timestamp=1745553023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Effectively Govern Azure Tags using Azure Policy (Demo)")](https://www.youtube.com/watch?v=Z93e2yYKO1Q)
-[![#GlobalAzure - Policy as Code with Bicep for Enterprise Scale](https://ytcards.demolab.com/?id=qpnMJXw6pIg&title=%23GlobalAzure+-+Policy+as+Code+with+Bicep+for+Enterprise+Scale&lang=en&timestamp=1618672431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#GlobalAzure - Policy as Code with Bicep for Enterprise Scale")](https://www.youtube.com/watch?v=qpnMJXw6pIg)
-<!-- END YOUTUBE-CARDS -->
- 
-### Latest Articles
+### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
 - [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/Flexing-your-Security-Governance-with-Azure-Policy-as-Code/)
 - [Awesome Azure Policy Origin Story](https://jloudon.com/cloud/Awesome-Azure-Policy-Origin-Story/)

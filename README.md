@@ -34,7 +34,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [Palo Alto Cloud NGFW SCM Deployment with Terraform](https://jloudon.com/cloud/Palo-Alto-Cloud-NGFW-Deployment-with-Terraform/)
+- [Palo Alto Cloud NGFW SCM Deployment with Terraform](https://jloudon.com/cloud/Deploying-Palo-Alto-Cloud-NGFW-with-Terraform-and-AzAPI/)
 - [Managing Azure Databricks Workspace IP Access Lists via CICD](https://jloudon.com/cloud/Managing-Azure-Databricks-Workspace-IP-Access-Lists-via-CICD/)
 - [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/Flexing-your-Security-Governance-with-Azure-Policy-as-Code/)
 - [Awesome Azure Policy Origin Story](https://jloudon.com/cloud/Awesome-Azure-Policy-Origin-Story/)

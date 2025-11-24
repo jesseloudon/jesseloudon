@@ -34,6 +34,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Lessons Learned Adopting Azure Virtual WAN](https://jloudon.com/cloud/Lessons-Learned-Adopting-Azure-Virtual-WAN/)
 - [Palo Alto Cloud NGFW SCM Deployment with Terraform](https://jloudon.com/cloud/Deploying-Palo-Alto-Cloud-NGFW-with-Terraform-and-AzAPI/)
 - [Managing Azure Databricks Workspace IP Access Lists via CICD](https://jloudon.com/cloud/Managing-Azure-Databricks-Workspace-IP-Access-Lists-via-CICD/)
 - [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/Flexing-your-Security-Governance-with-Azure-Policy-as-Code/)
@@ -43,7 +44,6 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 - [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
 - [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
 - [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
-- [Passed AZ-400 Designing and Implementing Microsoft DevOps Solutions](https://jloudon.com/exams/Passed-AZ-400-Microsoft-Certified-DevOps-Engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)

@@ -34,6 +34,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Terragrunt Tips and Tricks From The Field](https://jloudon.com/cloud/Terragrunt-Tips-and-Tricks-from-the-Field/)
 - [Lessons Learned Adopting Azure Virtual WAN](https://jloudon.com/cloud/Lessons-Learned-Adopting-Azure-Virtual-WAN/)
 - [Palo Alto Cloud NGFW SCM Deployment with Terraform](https://jloudon.com/cloud/Deploying-Palo-Alto-Cloud-NGFW-with-Terraform-and-AzAPI/)
 - [Managing Azure Databricks Workspace IP Access Lists via CICD](https://jloudon.com/cloud/Managing-Azure-Databricks-Workspace-IP-Access-Lists-via-CICD/)
@@ -43,7 +44,6 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 - [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/How-To-Win-vs-Azure-Policy-Non-Compliance/)
 - [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
 - [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
-- [Azure Spring Clean: DINE to Automate your Monitoring Governance with Azure Monitor Metric Alerts](https://jloudon.com/cloud/Azure-Spring-Clean-DINE-to-Automate-your-Monitoring-Governance-with-Azure-Monitor-Metric-Alerts/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)

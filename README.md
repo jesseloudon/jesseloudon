@@ -16,8 +16,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How to Effectively Govern Azure Tags using Azure Policy (Demo)](https://ytcards.demolab.com/?id=Z93e2yYKO1Q&title=How+to+Effectively+Govern+Azure+Tags+using+Azure+Policy+%28Demo%29&lang=en&timestamp=1745553023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Effectively Govern Azure Tags using Azure Policy (Demo)")](https://www.youtube.com/watch?v=Z93e2yYKO1Q)
-[![#GlobalAzure - Policy as Code with Bicep for Enterprise Scale](https://ytcards.demolab.com/?id=qpnMJXw6pIg&title=%23GlobalAzure+-+Policy+as+Code+with+Bicep+for+Enterprise+Scale&lang=en&timestamp=1618672431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#GlobalAzure - Policy as Code with Bicep for Enterprise Scale")](https://www.youtube.com/watch?v=qpnMJXw6pIg)
+
 <!-- END YOUTUBE-CARDS -->
 
 <!-- YOUTUBE-PLAYLIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8RaOk9ZW2bs"><img width="140px" src="https://i.ytimg.com/vi/8RaOk9ZW2bs/mqdefault.jpg"></a></td>

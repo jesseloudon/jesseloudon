@@ -14,7 +14,7 @@ jobs:
       - name: Pull in jloudon.com Blog posts
         uses: gautamkrishnar/blog-post-workflow@eba05ad46e6bac02165b77289978caf47699a41f #1.9.3
         with:
-          feed_list: "https://jloudon.com/feed.xml"
+          feed_list: "https://jloudon.com/rss.xml"
           max_post_count: "15"
           committer_email: "13147870+jesseloudon@users.noreply.github.com"
 

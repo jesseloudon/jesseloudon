@@ -34,16 +34,21 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
-- [Terragrunt Tips and Tricks From The Field](https://jloudon.com/cloud/Terragrunt-Tips-and-Tricks-from-the-Field/)
-- [Lessons Learned Adopting Azure Virtual WAN](https://jloudon.com/cloud/Lessons-Learned-Adopting-Azure-Virtual-WAN/)
-- [Palo Alto Cloud NGFW SCM Deployment with Terraform](https://jloudon.com/cloud/Deploying-Palo-Alto-Cloud-NGFW-with-Terraform-and-AzAPI/)
-- [Managing Azure Databricks Workspace IP Access Lists via CICD](https://jloudon.com/cloud/Managing-Azure-Databricks-Workspace-IP-Access-Lists-via-CICD/)
-- [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/Flexing-your-Security-Governance-with-Azure-Policy-as-Code/)
-- [Awesome Azure Policy Origin Story](https://jloudon.com/cloud/Awesome-Azure-Policy-Origin-Story/)
-- [Talking Azure Policy as Code on CtrlAltAzure podcast](https://jloudon.com/cloud/Talking-Azure-Policy-as-Code-on-the-CtrlAltAzure-podcast/)
-- [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/How-To-Win-vs-Azure-Policy-Non-Compliance/)
-- [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/HashiTalks-ANZ-DRY-Coding-with-Terraform-CSVs-ForEach/)
-- [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/Global-Azure-Policy-as-Code-with-Bicep-for-Enterprise-Scale/)
+- [Terragrunt Tips and Tricks From The Field](https://jloudon.com/cloud/terragrunt-tips-and-tricks-from-the-field/)
+- [Lessons Learned Adopting Azure Virtual WAN](https://jloudon.com/cloud/lessons-learned-adopting-azure-virtual-wan/)
+- [Awesome Azure Policy Chapter 3](https://jloudon.com/cloud/awesome-azure-policy-chapter-3/)
+- [Palo Alto Cloud NGFW SCM Deployment with Terraform](https://jloudon.com/cloud/deploying-palo-alto-cloud-ngfw-with-terraform-and-azapi/)
+- [Managing Azure Databricks Workspace IP Access Lists via CICD](https://jloudon.com/cloud/managing-azure-databricks-workspace-ip-access-lists-via-cicd/)
+- [Deleting 600 Git Remote Branches](https://jloudon.com/devops/deleting-600-git-remote-branches/)
+- [Awesome Azure Policy Chapter 2](https://jloudon.com/cloud/awesome-azure-policy-chapter-2/)
+- [Awesome Azure Policy Chapter 1](https://jloudon.com/cloud/awesome-azure-policy-chapter-1/)
+- [5 Tips To Automate Your Cloud Compliance](https://jloudon.com/cloud/5-tips-to-automate-your-cloud-compliance/)
+- [Flexing your Security Governance with Azure Policy as Code](https://jloudon.com/cloud/flexing-your-security-governance-with-azure-policy-as-code/)
+- [Awesome Azure Policy Origin Story](https://jloudon.com/cloud/awesome-azure-policy-origin-story/)
+- [Talking Azure Policy as Code on CtrlAltAzure podcast](https://jloudon.com/cloud/talking-azure-policy-as-code-on-the-ctrlaltazure-podcast/)
+- [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/how-to-win-vs-azure-policy-non-compliance/)
+- [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/hashitalks-anz-dry-coding-with-terraform-csvs-foreach/)
+- [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/global-azure-policy-as-code-with-bicep-for-enterprise-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)

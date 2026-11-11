@@ -34,6 +34,7 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
  
 ### Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Azure Policy Chapter 4](https://jloudon.com/cloud/awesome-azure-policy-chapter-4/)
 - [Terragrunt Tips and Tricks From The Field](https://jloudon.com/cloud/terragrunt-tips-and-tricks-from-the-field/)
 - [Lessons Learned Adopting Azure Virtual WAN](https://jloudon.com/cloud/lessons-learned-adopting-azure-virtual-wan/)
 - [Awesome Azure Policy Chapter 3](https://jloudon.com/cloud/awesome-azure-policy-chapter-3/)
@@ -48,7 +49,6 @@ A dataset wrangler and chief technology googler. Building enterprises w/ a slice
 - [Talking Azure Policy as Code on CtrlAltAzure podcast](https://jloudon.com/cloud/talking-azure-policy-as-code-on-the-ctrlaltazure-podcast/)
 - [How to Win vs Azure Policy Non-Compliance](https://jloudon.com/cloud/how-to-win-vs-azure-policy-non-compliance/)
 - [HashiTalks ANZ: DRY Coding with Terraform, CSVs, ForEach](https://jloudon.com/cloud/hashitalks-anz-dry-coding-with-terraform-csvs-foreach/)
-- [Global Azure: Policy as Code with Bicep for Enterprise Scale](https://jloudon.com/cloud/global-azure-policy-as-code-with-bicep-for-enterprise-scale/)
 <!-- BLOG-POST-LIST:END -->
 
 ### [Awesome-Azure-Policy Contributors](https://github.com/globalbao/awesome-azure-policy)
